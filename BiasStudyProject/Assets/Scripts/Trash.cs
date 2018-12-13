@@ -52,9 +52,6 @@ public class Trash : MonoBehaviour {
 
     protected virtual void InteractableObjectGrabbed(object sender, InteractableObjectEventArgs e)
     {
-        if (Collider != null)
-            Collider.isTrigger = true;
-
 
     }
 
