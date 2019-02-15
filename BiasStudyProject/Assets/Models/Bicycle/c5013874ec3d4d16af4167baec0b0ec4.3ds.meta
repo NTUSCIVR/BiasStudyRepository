@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 683a6e78702f74949bab17a28a911bf0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: back wheel
+    100002: band
+    100004: band01
+    100006: //RootNode
+    100008: Covers
+    100010: covers_009
+    100012: Crank
+    100014: Frame_acht
+    100016: Frame_voor
+    100018: front _015
+    100020: Grip
+    100022: Kettingkas
+    100024: Logo_LI
+    100026: Logo_RE
+    100028: logo_sr
+    100030: mach_logo
+    100032: NONE_05
+    100034: Obj_000027
+    100036: Obj_248
+    100038: Obj_251
+    100040: Obj_88
+    100042: Obj_89
+    100044: Obj_94
+    100046: Object001
+    100048: Object002
+    100050: Object003
+    100052: Object004
+    100054: Object005
+    100056: Object006
+    100058: Objet01
+    100060: PDS_002
+    100062: PDS_003
+    100064: PDS_006
+    100066: PDS_008
+    100068: Plan01
+    100070: Stuur
+    100072: Velg
+    100074: voorvork
+    100076: zeskan_003
+    100078: zeskantsc0
+    100080: zeskantsch
+    400000: back wheel
+    400002: band
+    400004: band01
+    400006: //RootNode
+    400008: Covers
+    400010: covers_009
+    400012: Crank
+    400014: Frame_acht
+    400016: Frame_voor
+    400018: front _015
+    400020: Grip
+    400022: Kettingkas
+    400024: Logo_LI
+    400026: Logo_RE
+    400028: logo_sr
+    400030: mach_logo
+    400032: NONE_05
+    400034: Obj_000027
+    400036: Obj_248
+    400038: Obj_251
+    400040: Obj_88
+    400042: Obj_89
+    400044: Obj_94
+    400046: Object001
+    400048: Object002
+    400050: Object003
+    400052: Object004
+    400054: Object005
+    400056: Object006
+    400058: Objet01
+    400060: PDS_002
+    400062: PDS_003
+    400064: PDS_006
+    400066: PDS_008
+    400068: Plan01
+    400070: Stuur
+    400072: Velg
+    400074: voorvork
+    400076: zeskan_003
+    400078: zeskantsc0
+    400080: zeskantsch
+    2100000: Mat Zwart Poeder
+    2100002: Mat Zwart Rubber
+    2100004: Glanzend staal_c
+    2100006: logo_mach_SR01
+    2100008: KL003 Metallic_o
+    2300000: back wheel
+    2300002: band
+    2300004: band01
+    2300006: Covers
+    2300008: covers_009
+    2300010: Crank
+    2300012: Frame_acht
+    2300014: Frame_voor
+    2300016: front _015
+    2300018: Grip
+    2300020: Kettingkas
+    2300022: Logo_LI
+    2300024: Logo_RE
+    2300026: logo_sr
+    2300028: mach_logo
+    2300030: NONE_05
+    2300032: Obj_000027
+    2300034: Obj_248
+    2300036: Obj_251
+    2300038: Obj_88
+    2300040: Obj_89
+    2300042: Obj_94
+    2300044: Object001
+    2300046: Object002
+    2300048: Object003
+    2300050: Object004
+    2300052: Object005
+    2300054: Object006
+    2300056: Objet01
+    2300058: PDS_002
+    2300060: PDS_003
+    2300062: PDS_006
+    2300064: PDS_008
+    2300066: Plan01
+    2300068: Stuur
+    2300070: Velg
+    2300072: voorvork
+    2300074: zeskan_003
+    2300076: zeskantsc0
+    2300078: zeskantsch
+    3300000: back wheel
+    3300002: band
+    3300004: band01
+    3300006: Covers
+    3300008: covers_009
+    3300010: Crank
+    3300012: Frame_acht
+    3300014: Frame_voor
+    3300016: front _015
+    3300018: Grip
+    3300020: Kettingkas
+    3300022: Logo_LI
+    3300024: Logo_RE
+    3300026: logo_sr
+    3300028: mach_logo
+    3300030: NONE_05
+    3300032: Obj_000027
+    3300034: Obj_248
+    3300036: Obj_251
+    3300038: Obj_88
+    3300040: Obj_89
+    3300042: Obj_94
+    3300044: Object001
+    3300046: Object002
+    3300048: Object003
+    3300050: Object004
+    3300052: Object005
+    3300054: Object006
+    3300056: Objet01
+    3300058: PDS_002
+    3300060: PDS_003
+    3300062: PDS_006
+    3300064: PDS_008
+    3300066: Plan01
+    3300068: Stuur
+    3300070: Velg
+    3300072: voorvork
+    3300074: zeskan_003
+    3300076: zeskantsc0
+    3300078: zeskantsch
+    4300000: Velg
+    4300002: front _015
+    4300004: band01
+    4300006: band
+    4300008: Obj_248
+    4300010: Obj_251
+    4300012: Objet01
+    4300014: Plan01
+    4300016: mach_logo
+    4300018: logo_sr
+    4300020: PDS_008
+    4300022: PDS_006
+    4300024: PDS_003
+    4300026: PDS_002
+    4300028: Stuur
+    4300030: Obj_88
+    4300032: Obj_89
+    4300034: Obj_94
+    4300036: Grip
+    4300038: Obj_000027
+    4300040: voorvork
+    4300042: zeskantsch
+    4300044: Frame_voor
+    4300046: NONE_05
+    4300048: Frame_acht
+    4300050: Covers
+    4300052: zeskantsc0
+    4300054: zeskan_003
+    4300056: covers_009
+    4300058: back wheel
+    4300060: Crank
+    4300062: Logo_RE
+    4300064: Logo_LI
+    4300066: Kettingkas
+    4300068: Object001
+    4300070: Object002
+    4300072: Object003
+    4300074: Object004
+    4300076: Object005
+    4300078: Object006
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
